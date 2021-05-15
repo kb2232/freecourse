@@ -1,0 +1,3 @@
+[submodule "gettingstarted"]
+	path = gettingstarted
+	url = ./2level/gettingstarted/
